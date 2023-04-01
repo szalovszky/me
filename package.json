@@ -12,7 +12,7 @@
   "devDependencies": {
     "@fontsource/noto-sans": "^4.5.11",
     "@sveltejs/adapter-auto": "^2.0.0",
-    "@sveltejs/kit": "^1.9.3",
+    "@sveltejs/kit": "^1.15.0",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "autoprefixer": "^10.4.14",
